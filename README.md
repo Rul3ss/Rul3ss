@@ -19,9 +19,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rul3ss&theme=dracula" />
-
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rul3ss&theme=dracula"
+    height="180"
+  />
 </div>
+
 
 
 ---
