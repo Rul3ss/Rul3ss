@@ -20,7 +20,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rul3ss&layout=compact&theme=dracula" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rul3ss&show_icons=true&theme=dracula" 
     height="160"
   />
 </div>
