@@ -19,10 +19,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rul3ss&show_icons=true&theme=dracula" 
-    height="160"
-  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rul3ss&theme=dracula" />
+
 </div>
 
 
