@@ -23,7 +23,12 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rul3ss&theme=dracula"
     height="180"
   />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rul3ss&theme=dracula"
+    height="180"
+  />
 </div>
+
 
 
 
