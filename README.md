@@ -19,10 +19,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rul3ss&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" 
-    height="160"
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rul3ss" />
+
 </div>
 
 ---
