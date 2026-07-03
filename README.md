@@ -10,8 +10,7 @@
 ###  About Me
 
 -  Computer Engineering student at **UFRB**
-- Developed websites such as:
-- acessofacil.ness.dev.br
+- Contributed to the development of : https://acessofacil.ness.dev.br
 
 ---
 
