@@ -7,12 +7,11 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 Computer Engineering student at **UFRB**
-- 💡 Interested in **backend development**, **APIs**, and **system design**
-- 📚 Constantly learning and building projects to improve my skills
-- 🤝 Open to internships, collaborations, and learning opportunities
+-  Computer Engineering student at **UFRB**
+- Developed websites such as:
+- acessofacil.ness.dev.br
 
 ---
 
@@ -34,7 +33,7 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+###  Tech Stack
 
 <div align="center">
   <!-- Backend -->
